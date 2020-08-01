@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "iprovide"
-version = "0.1.0"
+version = "0.1.1"
 description = "Provides a simple but effective  interface definition library."
 authors = ["David James McCorrie <djmccorrie@gmail.com>"]
 
